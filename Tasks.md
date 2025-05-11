@@ -1,5 +1,3 @@
-# DimensionalityReduction
-
 # Lab Assignment: Dimensionality Reduction
 
 ## Objective
